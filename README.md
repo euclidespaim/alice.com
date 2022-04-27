@@ -20,3 +20,5 @@ If you have any feedback, please reach out to us at @euclidespaim in any social 
 
 ## Buy me a coffee
 If you like this site and want to support my work, please consider buying me a coffee at https://www.buymeacoffee.com/euclidespaim
+
+..........
